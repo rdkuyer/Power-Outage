@@ -1,7 +1,7 @@
 # Power-Outage
 ## Objective  
 This project was created as part of Maven's Power Outage Challenge. The objective was to act as a Senior Analytics Consultant hired by the U.S. Department of Energy to clean data and create a report/dashboard showcasing trends and key insights from 20 years' worth of event-level power outage data. The data provided was raw, making data cleaning a key challenge.
-Data Cleaning
+## Data Cleaning
 -	Event date:
     -	Change to date type, correct for dates that do not include a year.
 -	Type of Disturbance: 
